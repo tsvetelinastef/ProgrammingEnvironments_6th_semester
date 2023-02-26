@@ -1,0 +1,15 @@
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\UserLogin.csproj.AssemblyReference.cache
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\UserLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfoInputs.cache
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfo.cs
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\UserLogin.csproj.CoreCompileInputs.cache
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\bin\Debug\net6.0\UserLogin.exe
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\bin\Debug\net6.0\UserLogin.deps.json
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\bin\Debug\net6.0\UserLogin.runtimeconfig.json
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\bin\Debug\net6.0\UserLogin.dll
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\bin\Debug\net6.0\UserLogin.pdb
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\UserLogin.dll
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\refint\UserLogin.dll
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\UserLogin.pdb
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\UserLogin.genruntimeconfig.cache
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\ref\UserLogin.dll
