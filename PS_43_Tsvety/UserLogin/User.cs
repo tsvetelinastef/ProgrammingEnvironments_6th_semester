@@ -15,6 +15,9 @@ namespace UserLogin    // namespace PS_43_Tsvety
         public DateTime Created { get; set; }
         public DateTime ActiveTo { get; set; }
 
+
+        // override here ... to return a string representation of the object that includes all of these properties in a formatted string
+        // we need to provide a customized string representation of an object that is specific to our application need
         public override string ToString()
         {
             return Username + ", " 
