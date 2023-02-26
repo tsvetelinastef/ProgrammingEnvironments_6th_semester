@@ -1,5 +1,4 @@
-﻿
-namespace UserLogin
+﻿namespace UserLogin
 {
     public enum UserRoles
     {
