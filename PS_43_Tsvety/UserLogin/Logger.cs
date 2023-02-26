@@ -16,18 +16,18 @@ namespace UserLogin
                 + LoginValidation.currentUserRole + ";"
                 + activity;
             currentSessionActivities.Add(activityLine);
-            if (!File.Exists("log.txt"))
+            if (!File.Exists("test.txt"))
             {
-                File.Create("log.txt");
+                File.Create("test.txt");
             }
-            if (File.Exists("log.txt"))
-                File.AppendAllText("log.txt", activityLine + "\r\n");
+            if (File.Exists("test.txt"))
+                File.AppendAllText("test.txt", activityLine + "\r\n");
         }
 
         public static DateTime GetLastLogInInfo(string username)
         {
             DateTime resultDateTime = DateTime.Now;
-            foreach (var record in ReadFrom("log.txt"))
+            foreach (var record in ReadFrom("test.txt"))
             {
                 if (record.Contains("Login"))
                 {

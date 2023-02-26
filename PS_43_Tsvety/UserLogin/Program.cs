@@ -52,7 +52,7 @@ namespace UserLogin
                             Console.WriteLine(user.ToString());
                         break;
                     case 4:
-                        StreamReader reader = new StreamReader("log.txt");
+                        StreamReader reader = new StreamReader("test.txt");
                         Console.WriteLine(reader.ReadToEnd());
                         reader.Close();
                         break;
