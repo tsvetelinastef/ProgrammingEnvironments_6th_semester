@@ -13,3 +13,4 @@ D:\ТУ София 6 семестър\ПС, Програмни среди\Exerci
 D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\UserLogin.pdb
 D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\UserLogin.genruntimeconfig.cache
 D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\obj\Debug\net6.0\ref\UserLogin.dll
+D:\ТУ София 6 семестър\ПС, Програмни среди\Exercises\ProgrammingEnvironments_6th_semester\PS_43_Tsvety\UserLogin\bin\Debug\net6.0\test.txt
