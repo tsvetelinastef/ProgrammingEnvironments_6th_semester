@@ -5,16 +5,33 @@ using System.Text;
 
 namespace UserLogin
 {
+    public enum Activity
+    {
+        UserLogin, 
+        UserChanged,
+        UserActiveToChange
+    }
+
     public static class Logger
     {
         private static List<string> currentSessionActivities = new List<string>();
 
-        public static void LogActivity(string activity)
+        public static Dictionary<Activity, string> ActivityDescriptions = new Dictionary<Activity, string>()
+        {
+            { Activity.UserLogin, "User logged in" },
+            { Activity.UserChanged, "User information changed" },
+            { Activity.UserActiveToChange, "User active period changed" }
+        }; 
+
+        public static List<string> CurrentSessionActivities = new List<string>();
+
+
+        public static void LogActivity(Activity activity)
         {
             string activityLine = DateTime.Now + ";"
                 + LoginValidation.currentUserUsername + ";"
                 + LoginValidation.currentUserRole + ";"
-                + activity;
+                + ActivityDescriptions[activity];
             currentSessionActivities.Add(activityLine);
             if (!File.Exists("test.txt"))
             {
