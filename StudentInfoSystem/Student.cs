@@ -7,7 +7,7 @@ namespace StudentInfoSystem
         }
 
         public Student(string nameI, string middleNameI, string lastNameI, string facultyI, string majorI, string OKSI,
-            string studentStatusI, string facultyNumberI, string courseI, string potokI, string groupI)
+            string studentStatusI, string facNoI, string courseI, string potokI, string groupI)
         {
             Name = nameI;
             MiddleName = middleNameI;
@@ -16,7 +16,7 @@ namespace StudentInfoSystem
             Major = majorI;
             OKS = OKSI;
             StudentStatus = studentStatusI;
-            FacultyNumber = facultyNumberI;
+            FacNo = facNoI;
             Course = courseI;
             Potok = potokI;
             Group = groupI;
